@@ -1,5 +1,5 @@
 # PowerBi-Projects
-This is PowerBi Projects and it is Open for everyone!
+This are PowerBi Projects and it is Open for everyone!
 Peace ✌️
 
 
